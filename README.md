@@ -1,6 +1,6 @@
 # dot-files
 
-Dotfiles I use.
+Dot files I use.
 
 [Terminal files forked from]( https://github.com/mathiasbynens/dotfiles)
 
